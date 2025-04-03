@@ -1,9 +1,13 @@
 # Energy Trading and Risk Management (ETRM) System
 
-
+https://github.com/AntonioPavoni/AI-Commodity-Trading-Assistant-with-CTRM-Integration
 [![License](https://img.shields.io/github/license/AntonioPavoni/AI-Commodity-Trading-Assistant-with-CTRM-Integration.svg)](https://github.com/AntonioPavoni/AI-Commodity-Trading-Assistant-with-CTRM-Integration/blob/main/LICENSE)
 
 [Streamlit Based MVP](https://etrmai-systemv1.streamlit.app/)
+
+![AI Assistant Trade Capture](https://github.com/AntonioPavoni/AI-Commodity-Trading-Assistant-with-CTRM-Integration/blob/main/AI%20Trading%20Assistant%20Trade%20Capture.gif)
+![AI Trading Assistant - Example Market Data API Calls - Oil and Power](https://github.com/AntonioPavoni/AI-Commodity-Trading-Assistant-with-CTRM-Integration/blob/main/AI%20Trading%20Assistant%20-%20Example%20Market%20Data%20API%20Calls%20-%20Oil%20and%20Power.gif)
+![AI Trading Assistant - Market Data UI Section](https://github.com/AntonioPavoni/AI-Commodity-Trading-Assistant-with-CTRM-Integration/blob/main/AI%20Trading%20Assistant%20-%20Market%20Data%20UI%20Section.gif)
 
 A Streamlit-based application for managing energy trading operations, integrating an AI-powered trading assistant, Commodity Trading and Risk Management (CTRM) features, and a market data section with real-time API fetching and charting.
 
