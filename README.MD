@@ -66,3 +66,11 @@ The ETRM System is designed to streamline energy trading operations by providing
 - **Economic Data:** "how is the economy doing?" (if available)
 
 This application is designed to cater to the needs of energy trading professionals by providing a robust and intelligent platform to manage and analyze trading activities
+
+
+### Examples
+![Watch the video](https://github.com/AntonioPavoni/AI-Commodity-Trading-Assistant-with-CTRM-Integration/blob/main/AI%20Trading%20Assistant%20Trade%20Capture.mp4)
+![Watch the video](https://github.com/AntonioPavoni/AI-Commodity-Trading-Assistant-with-CTRM-Integration/blob/main/AI%20Trading%20Assistant%20-%20Example%20Market%20Data%20API%20Calls%20-%20Oil%20and%20Power.mp4)
+![Watch the video](https://github.com/AntonioPavoni/AI-Commodity-Trading-Assistant-with-CTRM-Integration/blob/main/AI%20Trading%20Assistant%20Position.mp4)
+![Watch the video](https://github.com/AntonioPavoni/AI-Commodity-Trading-Assistant-with-CTRM-Integration/blob/main/AI%20Trading%20Assistant%20-%20Example%20Market%20Data%20API%20Calls.mp4)
+
