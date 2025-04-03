@@ -3,7 +3,7 @@
 
 [![License](https://img.shields.io/github/license/AntonioPavoni/AI-Commodity-Trading-Assistant-with-CTRM-Integration.svg)](https://github.com/AntonioPavoni/AI-Commodity-Trading-Assistant-with-CTRM-Integration/blob/main/LICENSE)
 
-[![Streamlit App](https://etrmai-systemv1.streamlit.app/)](https://etrmai-systemv1.streamlit.app/)
+[![Streamlit Based MVP](https://etrmai-systemv1.streamlit.app/)](https://etrmai-systemv1.streamlit.app/)
 
 A Streamlit-based application for managing energy trading operations, integrating an AI-powered trading assistant, Commodity Trading and Risk Management (CTRM) features, and a market data section with real-time API fetching and charting.
 
